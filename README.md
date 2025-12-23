@@ -50,14 +50,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafa1ali&theme=darkhub&margin-w=15&no-bg=true" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
