@@ -68,14 +68,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa1ali&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-### ☕ Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/mostafa_ali" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-<br/>
