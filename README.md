@@ -153,7 +153,6 @@ class MostafaAli:
   <img src="https://raw.githubusercontent.com/mostafa1ali/mostafa1ali/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ *To enable the snake animation, add a GitHub Actions workflow to your profile repo. [See instructions →](https://github.com/Platane/snk)*
 
 ---
 
